@@ -20,16 +20,13 @@ public class Week1_OddOrEven {
 
         } else if (num % 2 == 0) {
 
-                System.out.println(num + " is an even number");
+            System.out.println(num + " is an even number");
 
         } else {
 
-                System.out.println(num + " is an odd number");
+            System.out.println(num + " is an odd number");
 
         }
-
-
-
 
 
     }
