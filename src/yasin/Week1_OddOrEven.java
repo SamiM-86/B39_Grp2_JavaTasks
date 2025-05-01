@@ -17,6 +17,7 @@ public class Week1_OddOrEven {
         else {
             System.out.println(num + "is odd number");
         }
+
     }
 
 }
