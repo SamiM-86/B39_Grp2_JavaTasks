@@ -15,6 +15,7 @@ public class week2_FINRA {
                 System.out.print(" "+i);
             }
 
+
         }
     }
 }
