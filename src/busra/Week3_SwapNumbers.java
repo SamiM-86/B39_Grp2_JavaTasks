@@ -7,7 +7,7 @@ public class Week3_SwapNumbers {
         Swap 2 numbers without creating a 3rd variable
         */
 
-        int a = 5;
+        int a = 50;
         int b = 10;
 
 
