@@ -15,12 +15,15 @@ public class Week2_FINRA {
 
     public static void main(String[] args) {
 
-        printFinRa();
+        printFinRa(30);
+        printFinRa(130);
 
     }
-    public static void printFinRa() {
+    public static void printFinRa(int number) {
 
-        for (int i = 1; i <= 30; i++) {
+
+
+        for (int i = 1; i <= number; i++) {
 
             if (i % 3 == 0 && i % 5 == 0) {
                 System.out.print("FINRA ");
@@ -36,6 +39,7 @@ public class Week2_FINRA {
             }
 
         }
+        System.out.println();
 
     }
 
