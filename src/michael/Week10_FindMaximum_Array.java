@@ -18,6 +18,9 @@ public class Week10_FindMaximum_Array {
         int maxNumber_2 = maxValue_2(arr);
         System.out.println("maxNumber_2 = " + maxNumber_2);
 
+        int maxNumber_3=maxNumber_1(arr);
+        System.out.println("maxNumber_3 = " + maxNumber_3);
+
     }
 
 
